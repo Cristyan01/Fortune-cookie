@@ -6,7 +6,6 @@ import getRandomFromArr from './services/getRandomFromArr'
 import Phrase from './components/Phrase'
 import ButtonPhrase from './components/ButtonPhrase'
 
-const bgArr = [1, 2, 3, 4]
 
 function App() {
 
